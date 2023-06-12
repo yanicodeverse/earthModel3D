@@ -1,4 +1,4 @@
-[Portfolio-website](https://solarsystem3dmodel.netlify.app/)
+[solarsystem3dmodel](https://solarsystem3dmodel.netlify.app/)
 
 # Getting Started with Create React App
 
